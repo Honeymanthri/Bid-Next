@@ -81,12 +81,6 @@ Contributions are welcome! Please follow these steps to contribute:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## Contact
-
-**Author**: Rahul Dasari  
-**Email**: dasarirahulpatel.drp@gmail.com  
-**GitHub**: [https://github.com/RahulDasari1](https://github.com/RahulDasari1)
-
 For any questions or feedback, feel free to reach out!
 
 ---
